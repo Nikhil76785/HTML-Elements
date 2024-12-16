@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title> Formatting Text </title>
+    </head>
+    <body>
+        <p><b>Hello I am Nikhil.</b>
+            I like playing <em>piano</em>.
+            I like playing <strong>table tennis</strong>.
+            I like <del>study</del> coding.
+            3<sup>2</sup>=<mark>9</mark>
+    </body>
+</html>
